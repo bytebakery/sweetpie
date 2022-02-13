@@ -16,18 +16,21 @@
 * `+` [source](https://github.com/nomiclabs/hardhat/tree/master/docs)
 * `+` [website](https://hardhat.org/getting-started)
 * `-` localization - N/A
+
 Good documentation. All main tasks is covered
 
 ### locklift
 * `+` [source](https://github.com/broxus/ton-locklift)
 * `-` website - N/A
 * `-` localization - N/A
+
 Poor documentation
 
 ### SweetPie
 * `✓` source - то же решение, что Hardhat. Markdown-файлы
 * `✓` website - генерация HTML страниц из Markdown-файлов, и публикация их на sweetpie.org
 * `✓` localization - перевод на 6 мировых языков
+
 Задача - покрыть документацией весь функционал
 
 
@@ -37,6 +40,7 @@ Poor documentation
 * `+` [Discord](https://hardhat.org/discord)
 * `+` [Twitter](https://twitter.com/HardhatHQ)
 * `+` [Medium](https://hardhat.medium.com)
+
 Hardhat широко представлен в социальных медиа
 
 ### locklift
@@ -160,13 +164,15 @@ v1.0.0
 ## Plugins
 ### Hardhat
 * `+` [Возможность добавлять к библиотеке собственные плагины](https://hardhat.org/advanced/building-plugins.html)
+
 Такой подход дает возможность комьюнити создавать свои плагины
 
 ### locklift
 * `-` Отсутствует возможность добавлять к библиотеке собственные плагины
 
 ### sweetpie
-* `✓` Будет возможность добавлять к библиотеке собственные плагины.
+* `✓` Будет возможность добавлять к библиотеке собственные плагины
+
 Это даёт большую гибкость в разработке
 
 
@@ -228,6 +234,7 @@ stakingRoot.pendingReward(user_token_balance, user_reward_data);
 
 ### sweetpie
 * `✓` Будет оборачивание контрактов в JS
+
 Это киллер фича. 
 При компиляции контракты оборачиваются в JS, который можно подключить к любому проекту. 
 Это позволяет легко собирать большие библиотеки стандартных классов
@@ -237,6 +244,7 @@ stakingRoot.pendingReward(user_token_balance, user_reward_data);
 ## Autocomplete
 ### Hardhat
 * `+` Автокомплит при вызове методов контракта
+
 ![images/autocomplete.png](images/autocomplete.png)
 
 ### locklift
