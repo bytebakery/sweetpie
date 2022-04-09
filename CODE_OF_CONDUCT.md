@@ -14,8 +14,8 @@
 
 ## ❌ No
 * 👹 Harassment
-* 🍆 Sexualized language or images
-* 🤡 Trolling and flud
+* 🍆 Sexual language or images
+* 🤡 Trolling and flood
 * 🤬 offensive comments
 * 🔐 Publication of personal information
 * 🏳️ Politics and propaganda
