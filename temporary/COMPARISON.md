@@ -112,7 +112,7 @@ New Locklift project initialized in amazing-locklift-project
 * `-` Нет удобного меню. Отсутствует возможность выбрать TypeScript при создании нового проекта
 
 ### sweetpie
-```shell
+```text
 $ npx sweetpie
 ███████╗██╗    ██╗███████╗███████╗████████╗    ██████╗ ██╗███████╗
 ██╔════╝██║    ██║██╔════╝██╔════╝╚══██╔══╝    ██╔══██╗██║██╔════╝
@@ -122,8 +122,8 @@ $ npx sweetpie
 ╚══════╝ ╚══╝╚══╝ ╚══════╝╚══════╝   ╚═╝       ╚═╝     ╚═╝╚══════╝                                                                 
 
 v1.0.0
-❯ Create a JavaScript project
-  Create a TypeScript project
+❯ Create. JavaScript
+  Create. TypeScript
   Quit
 ```
 * `✓` Будет удобное меню для создания проекта, как у Hardhat
